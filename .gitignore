@@ -1,0 +1,18 @@
+node_modules/
+.env
+.env*
+.next/
+.vercel
+*.tsbuildinfo
+.DS_Store
+*.pem
+
+# private planning notes
+CLAUDE.md
+SESSION_HANDOFF.md
+AGENTS.md
+
+# foundry
+contracts/out/
+contracts/cache/
+contracts/broadcast/
