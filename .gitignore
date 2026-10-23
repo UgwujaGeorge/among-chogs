@@ -16,3 +16,4 @@ AGENTS.md
 contracts/out/
 contracts/cache/
 contracts/broadcast/
+*.local.mjs
