@@ -17,3 +17,5 @@ contracts/out/
 contracts/cache/
 contracts/broadcast/
 *.local.mjs
+SUBMISSION.md
+media/

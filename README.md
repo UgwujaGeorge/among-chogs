@@ -87,5 +87,6 @@ The server needs `SETTLER_KEY` and `MONAD_TESTNET_RPC` in `server/.env` for test
 
 ## Pre-existing work
 
-Built from scratch during Chogathon 2026. Reused from my other Chogathon project (Chog Verse): the Chog image set
-and trait snapshot, and the TestChog test token on Monad testnet.
+All game code was written during Chogathon 2026. Reused: the Chog Genesis art and trait data (mirrored from IPFS), the
+TestChog test token on Monad testnet (also used by Chog Verse), OpenZeppelin contracts, forge-std, and the open-source
+libraries above.
